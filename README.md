@@ -17,10 +17,7 @@ Objects modeled in Blender:
 ---
 
 ## 🍩 Donut Animation
-
 Classic Blender donut practice with simple animation.
-
-## 🍩 Donut Animation
 ▶ [Watch animation](Donnut/Donut-Blender-animatie.mp4)
 
 ## 🌍 Earth Animation
