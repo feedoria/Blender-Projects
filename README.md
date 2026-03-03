@@ -21,9 +21,9 @@ Objects modeled in Blender:
 Classic Blender donut practice with simple animation.
 
 ## 🍩 Donut Animation
-[▶ Watch video](Donut/Donut-Blender-animatie.mp4)
+[▶ Watch video](https://github.com/feedoria/Blender-Projects/blob/main/Donut/Donut-Blender-animatie.mp4)
 
 ## 🌍 Earth Animation
-[▶ Watch video](Earth/earthanimation0001-0250.mp4)
+[▶ Watch video](https://github.com/feedoria/Blender-Projects/blob/main/Earth/earthanimation0001-0250.mp4)
 
 ![Earth](Earth/earth%20render%20bun.png)
