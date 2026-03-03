@@ -20,12 +20,10 @@ Objects modeled in Blender:
 
 Classic Blender donut practice with simple animation.
 
-![Donut Animation](Donut/Donut-Blender-animatie.mp4)
-
----
+## 🍩 Donut Animation
+[▶ Watch video](Donut/Donut-Blender-animatie.mp4)
 
 ## 🌍 Earth Animation
-
-Simple rotating Earth animation.
+[▶ Watch video](Earth/earthanimation0001-0250.mp4)
 
 ![Earth](Earth/earth%20render%20bun.png)
